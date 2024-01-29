@@ -1,0 +1,14 @@
+{
+  "High": [
+    {
+      "description": "SQL Injection.",
+      "location": [
+        "/login",
+        "/api/login",
+        "/register"
+      ],
+      "Primary": 2,
+      "Secondary": 1
+    }
+  ]
+}
